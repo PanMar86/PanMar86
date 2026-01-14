@@ -1,18 +1,12 @@
-## Hi there 👋
+## Hello there 👋
 
-I am Panagiotis Marentakis, a certified medical physicist based in Greece.
+Ny name is Panagiotis Marentakis and I am a certified medical physicist (RPE, MPE) based in Greece.
 
-I use programming to automate daily clinical tasks, and express my creative side. I love taking abstract and vague concepts and turn them into compact software solutions that improve the quality of the provided healthcare services.
+I use programming to automate daily clinical tasks, while expressing my creative side. I love taking abstract and vague concepts and turn them into compact software solutions that improve the quality of the provided healthcare services.
 I am mostly interested in medical image processing and radiation oncology.  
 
-Recently I developed a lightweight, python-based toolkit that aims to automate the evaluation process of a radiotherapy treatment plan, regarding both the target coverage and the protection of the critical structures (OARs).
+Recently I developed a lightweight, python-based toolkit that aims to automate the evaluation process of a radiotherapy treatment plan, taking into account both the target coverage and the protection of the critical structures (OARs).
 
-My tech stack is mainly Python and MATLAB.
+As a person in general, I am a strong believer in continuous learning and I constantly seek new challenges and opportunities.
 
-Feel free to contact me via my LinkedIn profile.
-
-
-Hobbies:<br>
-▪	Playing individual sports (swimming, weightlifting).  
-▪ Learning new languages (fascinated by Latin American Spanish). <br>
-▪	Travelling combined with trekking and long walks in nature.
+Please feel free to contact me via my LinkedIn profile.
