@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**PanMar86/PanMar86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Panagiotis Marentakis, a certified medical physicist based in Greece.
 
-Here are some ideas to get you started:
+I use programming to automate daily clinical tasks, and express my creative side. I love taking abstract and vague concepts and turn them into compact software solutions that improve the quality of the provided healthcare services.
+I am mostly interested in medical image processing and radiation oncology.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently I developed a lightweight, python-based toolkit that aims to automate the evaluation process of a radiotherapy treatment plan, regarding both the target coverage and the protection of the critical structures (OARs).
+
+My tech stack is mainly Python and MATLAB.
+
+Feel free to contact me via my LinkedIn profile.
+
+
+Hobbies:
+▪	Playing individual sports (swimming, weightlifting).
+▪	Learning new languages (fascinated by Latin American Spanish).
+▪	Travelling combined with trekking and long walks in nature.
