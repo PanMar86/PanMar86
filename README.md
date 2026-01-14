@@ -13,6 +13,7 @@ Feel free to contact me via my LinkedIn profile.
 
 
 Hobbies:
---> Playing individual sports (swimming, weightlifting).
---> Learning new languages (fascinated by Latin American Spanish).
---> Travelling combined with trekking and long walks in nature.
+▪	Playing individual sports (swimming, weightlifting) <br>  
+▪ Learning new languages (fascinated by Latin American Spanish) <br>
+▪	Travelling combined with trekking and long walks in nature
+
