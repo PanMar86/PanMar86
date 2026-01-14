@@ -12,8 +12,7 @@ My tech stack is mainly Python and MATLAB.
 Feel free to contact me via my LinkedIn profile.
 
 
-Hobbies:
+Hobbies:<br>
 ▪	Playing individual sports (swimming, weightlifting) <br>  
 ▪ Learning new languages (fascinated by Latin American Spanish) <br>
 ▪	Travelling combined with trekking and long walks in nature
-
