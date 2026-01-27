@@ -1,4 +1,4 @@
-## Hello there 👋
+## About me
 
 My name is Panagiotis Marentakis and I am a certified medical physicist (RPE, MPE) based in Greece.
 
